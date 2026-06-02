@@ -1,0 +1,21 @@
+# Environment
+.venv/
+.conda/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Dataset
+datasets/raw/
+datasets/augmented/
+datasets/resized/
+datasets/cropped/
+datasets/split/
+
+# Heavy models
+models/jaundice_model.h5
