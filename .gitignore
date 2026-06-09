@@ -1,0 +1,36 @@
+# Python Cache
+
+**pycache**/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+.venv/
+venv/
+env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# VS Code
+
+.vscode/
+
+# System Files
+
+.DS_Store
+Thumbs.db
+
+# Dataset (Optional)
+
+datasets/raw/
+
+# Temporary Files
+
+*.tmp
+*.log
+
+models/baseline/jaundice_model.h5
